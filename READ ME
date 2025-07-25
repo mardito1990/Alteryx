@@ -4,18 +4,11 @@ This repository contains a collection of Alteryx workflows I’ve developed for 
 
 ## 📂 Contents
 
-- **Sales Tax Audit Workflow**  
-  Automates sales tax overpayment checks across jurisdictions.
 
-- **Property Tax Valuation Tool**  
-  Estimates utility asset values based on NOI calculations.
-
-- **Excel Cleanup Macro**  
-  Cleans and formats messy Excel files for easier downstream use.
 
 ## 🖼️ Screenshots
 
-![Sales Tax Workflow](screenshots/sales-tax-workflow.png)
+
 
 ## 📁 File Types
 
