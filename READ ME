@@ -1,0 +1,34 @@
+# 🧪 Alteryx Workflows Portfolio
+
+This repository contains a collection of Alteryx workflows I’ve developed for automation, tax compliance, and data transformation.
+
+## 📂 Contents
+
+- **Sales Tax Audit Workflow**  
+  Automates sales tax overpayment checks across jurisdictions.
+
+- **Property Tax Valuation Tool**  
+  Estimates utility asset values based on NOI calculations.
+
+- **Excel Cleanup Macro**  
+  Cleans and formats messy Excel files for easier downstream use.
+
+## 🖼️ Screenshots
+
+![Sales Tax Workflow](screenshots/sales-tax-workflow.png)
+
+## 📁 File Types
+
+- `.yxmd` – Standard Alteryx Designer workflows  
+- `.yxzp` – Packaged workflows with data and macros  
+- `.csv` – Sample input/output data
+
+## 📌 How to Use
+
+1. Open the `.yxmd` files in Alteryx Designer.
+2. Update file paths as needed.
+3. Run the workflow to view results.
+
+## 🙋‍♂️ About Me
+
+I'm a Tax & Technology Specialist with experience in automation using Alteryx, Tableau, and Excel. Connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
